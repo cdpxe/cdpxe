@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @cdpxe
-- 👀 I’m interested in steganography, covert channels, smart homes/buildings, IoT security.
+- 👋 Hi, I’m interested in 👀:
+  - steganography, covert channels, smart homes/buildings, IoT security.
 - 📫 How to reach me: see [my website](https://www.wendzel.de)
 
 <!---
