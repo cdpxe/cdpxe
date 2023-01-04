@@ -1,5 +1,10 @@
-- 👋 Hi, I’m interested in 👀:
-  - steganography, covert channels, smart homes/buildings, IoT security.
+- 👋 Hi, I’m interested in:
+    - information security research taxonomy/terminology/methodology,
+    - network/IoT security, in particular:
+        - information hiding (steganography/covert channels),
+        - censorship circumvention, traffic obfuscation, flow watermarking,
+        - anomaly detection and
+        - smart homes/building security security.
 - 📫 How to reach me: see [my website](https://www.wendzel.de)
 
 <!---
